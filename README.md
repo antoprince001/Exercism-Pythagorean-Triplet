@@ -27,34 +27,3 @@ For example,
 Given an input integer N, find all Pythagorean triplets for which `a + b + c = N`.
 
 For example, with N = 1000, there is exactly one Pythagorean triplet for which `a + b + c = 1000`: `{200, 375, 425}`.
-
-## Source
-
-### Created by
-
-- @javaeeeee
-
-### Contributed to by
-
-- @aadityakulkarni
-- @FridaTveit
-- @jmrunkle
-- @jsertel
-- @kytrinyx
-- @lemoncurry
-- @michaelspets
-- @mirkoperillo
-- @mraediaz
-- @msomji
-- @muzimuzhi
-- @princerachit
-- @redshirt4
-- @SleeplessByte
-- @Smarticles101
-- @sshine
-- @stkent
-- @Zaldrick
-
-### Based on
-
-Problem 9 at Project Euler - http://projecteuler.net/problem=9
